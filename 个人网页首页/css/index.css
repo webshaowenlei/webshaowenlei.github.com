@@ -242,6 +242,7 @@ header nav h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top:-27px;
 }
 
 .siteHome-wrapper #Change li {
